@@ -18,7 +18,7 @@ window.FIREBASE_CONFIG = {
 /* (2) حسابات جوجل للموظفين — نفس هذه الإيميلات يجب أن تُوضع في قواعد Firestore */
 window.DOCBOOK_ROLES = {
   doctor: ['nawwacode@gmail.com'],   // ← بريد/بُرُد الطبيب (يمكن أكثر من واحد)
-  nurse:  ['nawwacode@gmail.com']    // ← بريد/بُرُد الممرضة
+  nurse:  ['ahmadtaim450@gmail.com', 'aistam379@gmail.com']    // ← بريد/بُرُد الممرضة
 };
 
 /* (دالة مساعدة — لا تعدّلها) */
